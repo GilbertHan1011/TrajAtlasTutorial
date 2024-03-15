@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'TrajAtlas'
-copyright = '2024, Litian Han'
-author = 'Litian Han'
+project = 'Lumache'
+copyright = '2021, Graziella'
+author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
