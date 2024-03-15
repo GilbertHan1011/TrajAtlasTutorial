@@ -1,19 +1,20 @@
+.. TrajAtlas documentation master file, created by
+   sphinx-quickstart on Fri Mar 15 13:22:51 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
 Welcome to TrajAtlas's documentation!
-===================================
-
-**TrajAtlas** is a trajectory-centric framework for unnraveling multi-scale differentiation heterogenity 
-acorss lage-scale trajectories
-
-Check out the :doc:`test` section for further information, including
-
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+=====================================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   test
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
